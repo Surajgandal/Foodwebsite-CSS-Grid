@@ -1,0 +1,111 @@
+*{
+	box-sizing:border-box;
+	font-family: 'Libre Baskerville', serif;
+}
+
+
+.cname{
+	/* border-style:solid; */
+	  text-align:center;
+	  height:120px;
+	  padding-top:30px;
+	    font-size:40px;
+	  font-weight:bold;
+	  background-color:#E74C3C;
+	  color:white;
+	  
+	 
+}
+.menu{
+	  text-align:center;
+	  height:50px;
+	  padding-top:10px;
+	  font-size:20px;
+	  font-weight:bold;
+	  background-color:#3498DB;
+	 
+}
+
+.menu a{
+	text-decoration:none;
+	color:white;
+	display:block;
+	
+}
+.banner{
+	margin-top:10px;
+}
+
+.about{
+	margin-top:10px;
+	text-align:justify;
+}
+
+.section{
+	text-align:center;
+	height:50px;
+	padding-top:10px;
+	font-size:20px;
+	font-weight:bold;
+	background-color:#3498DB;
+	margin-top:10px;
+	color:white;
+}
+.service{
+	text-align:justify;
+	padding:5px;
+	box-shadow:0px 0px 8px 5px #CAC7C7;
+   transition-property:transform;
+	transition-duration:3s;
+	margin-left:10px;
+	margin-right:10px;
+}
+.service:hover{
+	transform:scale(0.9090);
+}
+
+.contact{
+	
+	margin-top:10px;
+}
+#whatsapp{
+	position:fixed;
+	right:30px;
+	bottom:30px;
+}
+#tel{
+	position:fixed;
+	right:30px;
+	bottom:100px;
+}
+
+.footer{
+	background-color:#2C3E50;
+}
+
+.info a{
+	color:white;
+	text-decoration:none;
+	font-size:20px;
+	font-weight:bold;
+	line-height:50px;
+}
+.in{
+	color:white;
+
+	font-size:20px;
+	font-weight:bold;
+	line-height:80px;
+	
+}
+.Rights{
+	text-align:center;
+	color:white;
+}
+.is{
+	width:100%;
+	 height:30px;
+	 font-size:20px;
+	font-weight:bold;
+	color:red;
+}
